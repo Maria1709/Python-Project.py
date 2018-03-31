@@ -57,9 +57,13 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics  import classification_report
 from sklearn.metrics import confusion_matrix
 
+
+# directory file, read, comma separated value (irisdata set)
 df=pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data",
-# looing for Sepal Length, Sepal width, Petal length. petal with in order under names
+# looking for Sepal Length, Sepal width, Petal length. petal with in order under names
 names = ["Sepal length", "Sepal Width",  "Petal length", "Petal width", "Class"])
 # a directory file of first ten rescords in a grid form
 print(df.head(10))
+
+
 
