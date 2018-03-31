@@ -1,0 +1,7 @@
+# Project 25/03/2018
+# Maria O Sullivan
+import pandas as pd
+mydataset = pd.read_csv('iris.csv')
+x = mydataset.iloc[:,1].values
+print(min(x))
+print(max(x))
