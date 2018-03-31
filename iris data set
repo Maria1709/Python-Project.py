@@ -2,6 +2,46 @@
 # Maria O Sullivan
 import pandas as pd
 mydataset = pd.read_csv('iris.csv')
+x = mydataset.iloc[:,0].values
+print(min(x))
+print(max(x))
+
+Result output for column 1: 4.3, 7.9
+
+
+import pandas as pd
+mydataset = pd.read_csv('iris.csv')
 x = mydataset.iloc[:,1].values
 print(min(x))
 print(max(x))
+
+Result output for column 2: 2.0, 4.4
+
+import pandas as pd
+mydataset = pd.read_csv('iris.csv')
+x = mydataset.iloc[:,2].values
+print(min(x))
+print(max(x))
+
+Result output for column 3: 1.0, 6.9
+
+import pandas as pd
+mydataset = pd.read_csv('iris.csv')
+x = mydataset.iloc[:,3].values
+print(min(x))
+print(max(x))
+
+Result output for column 4: 0.1, 2.5
+
+
+
+import pandas as pd
+mydataset = pd.read_csv('iris.csv')
+x = mydataset.iloc[:,4].values
+print(min(x))
+print(max(x))
+
+Result output for column 5:Iris Setosa, Iris Virginica
+
+
+
