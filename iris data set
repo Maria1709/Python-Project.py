@@ -78,6 +78,6 @@ from sklearn.metrics import confusion_matrix
 df=pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data",
 names = ["Sepal length", "Sepal Width",  "Petal length", "Petal width", "Class"])
 print (df.head(10))
-#function(describe) to calculate standard deviation and the mean of the iris data seet top ten in a column in a grid
+#function(describe) to calculate standard deviation and the mean of the iris data set top ten in a column in a grid
 print(df.describe())
 
