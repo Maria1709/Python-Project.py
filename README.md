@@ -83,6 +83,8 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
 https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
 https://www.kaggle.com/uciml/iris
 https://rstudio-pubs-static.s3.amazonaws.com/205883_b658730c12d14aa6996fe2f6c612c65f.html
+http://www.codeastar.com/beginner-data-science-tutorial/
+https://www.kaggle.com/uciml/iris
 
 Summary Statistics:
 	         Min Max   Mean    SD   Class Correlation
@@ -101,7 +103,7 @@ Summary Statistics:
 9. Class Distribution: 33.3% for each of 3 classes.
 	
 	
-	https://www.kaggle.com/uciml/iris
+
 	
 	
 	
