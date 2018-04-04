@@ -3,7 +3,7 @@
 ## The Iris Data Set
 
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
-![Ronald Fisher] (https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:R._A._Fischer.jpg)
+![Picture of Ronald Fisher] (https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:R._A._Fischer.jpg)
 
 ### But the original data as taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation if iris flowers.
 
