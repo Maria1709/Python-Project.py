@@ -1,7 +1,8 @@
 # Python-Project.py
 
 ## The Iris Data Set
-
+##Evolution of Machine Learning
+###The most famous set of data for data mining and machine learning is the infamous Iris data set. 
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
 ![Picture of Ronald Fisher] (Fisher_3.jpeg)
 
@@ -23,8 +24,9 @@ Class:
 2.	Iris Versicolour
 3.	Iris Virginica
  
-It is used widely as a data set for testing purposes in computer science. Also, many academic research papers have used the Iris Data Set 
-
+It is used widely as a data set for testing purposes in computer science. Also, many academic researchers have used the Iris Data Set in the area of machine learning, as the dat is about pattern recognition, researchers believe that the computer has the capacity to learn without being programmed to perform specific tasks.
+###There is a lot of research in the area of Artificial Intellignece and researchers are interested to see can computers learn form data. Machines can use previous computations to automate to repeat and automate future deciosn making.This has been aroung for quiet a while but now with the ever growing scale of data and the need for automatuion and efficiency and effectiveness in the workplace and beyond, we need to find a way to do this on a large scale but also quickly.
+###Machine learning can range at present form online reccommendations on Amazon or Netflix to Googles self drive cars, to fraud detection.
 
 
 
@@ -88,7 +90,10 @@ https://analyticsindiamag.com/start-building-first-machine-learning-project-famo
 https://www.kaggle.com/uciml/iris
 https://rstudio-pubs-static.s3.amazonaws.com/205883_b658730c12d14aa6996fe2f6c612c65f.html
 http://www.codeastar.com/beginner-data-science-tutorial/
-https://www.kaggle.com/uciml/iris
+https://www.kaggle.com/uciml/irisIris_flower_data_set
+https://en.wikipedia.org/wiki/Iris_flower_data_set
+
+
 
 
 	
