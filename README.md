@@ -97,6 +97,7 @@ https://rstudio-pubs-static.s3.amazonaws.com/205883_b658730c12d14aa6996fe2f6c612
 http://www.codeastar.com/beginner-data-science-tutorial/
 https://www.kaggle.com/uciml/irisIris_flower_data_set
 https://en.wikipedia.org/wiki/Iris_flower_data_set
+https://www.sas.com/en_ie/insights/analytics/machine-learning.html
 
 
 
