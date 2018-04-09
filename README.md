@@ -33,7 +33,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### It is used widely as a data set for testing purposes in computer science. Also, many academic researchers have used the Iris Data Set in the area of machine learning, as the dat is about pattern recognition, researchers believe that the computer has the capacity to learn without being programmed to perform specific tasks.
 
 ### There is a lot of research in the area of Artificial Intellignece and researchers are interested to see can computers learn form data. Machines can use previous computations to automate to repeat and automate future deciosn making.This has been aroung for quiet a while but now with the ever growing scale of data and its now affordable data storage, and the need for automatuion and efficiency and effectiveness in the workplace and beyond, we need to find a way to analyze large ammounts of more complex data and deliver faster results.
-###Machine learning can range at present form online reccommendations on Amazon or Netflix to Googles self drive cars, to fraud detection.
+### Machine learning can range at present form online reccommendations on Amazon or Netflix to Googles self drive cars, to fraud detection.
 
 
 
