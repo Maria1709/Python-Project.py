@@ -2,15 +2,16 @@
 
 ## The Iris Data Set
 
-###Evolution of Machine Learning
+### Evolution of Machine Learning
 
 ### The most famous set of data for data mining and machine learning is the infamous Iris data set. 
 
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
 ![Picture of Ronald Fisher] (Fisher_3.jpeg)
+
 ![Picture of Ronald J Fisher] (..//master/myfolder/image.png)
 
-###But the original data as taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation if iris flowers.
+### But the original data as taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation if iris flowers.
 
 ![picture of Iris Setosa](iris setosa.jpg)
 
