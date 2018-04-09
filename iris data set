@@ -5,11 +5,10 @@ import pandas as pd
 mydataset = pd.read_csv('iris.csv')
 #integer location
 x = mydataset.iloc[:,0].values
-#find minumum in column 1
+#find minimum in column 1
 print(min(x))
 #find maximum in column 1
 print(max(x))
-
 Result output for column 1: 4.3, 7.9
 
 
