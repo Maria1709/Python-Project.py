@@ -93,3 +93,15 @@ firstcol = data[:,0]
 meanfirstcol = numpy.mean(data[:,0])
 
 print("Average of the first column is: ", meanfirstcol)
+
+
+ Calculate the mean of each column.
+import numpy
+
+# read data file into array.
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+firstcol = data[:,0]
+meanfirstcol = numpy.mean(data[:,0])
+
+print("Average of the first column is: ", meanfirstcol)
