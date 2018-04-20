@@ -37,6 +37,21 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import pandas as pd
 mydataset = pd.read_csv('iris.csv')
 x = mydataset.iloc[:,1].values
