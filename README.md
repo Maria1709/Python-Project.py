@@ -35,7 +35,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### There is a lot of research in the area of Artificial Intellignece and researchers are interested to see can computers learn form data. Machines can use previous computations to automate to repeat and automate future deciosn making.This has been aroung for quiet a while but now with the ever growing scale of data and its now affordable data storage, and the need for automatuion and efficiency and effectiveness in the workplace and beyond, we need to find a way to analyze large ammounts of more complex data and deliver faster results.
 ### Machine learning can range at present form online reccommendations on Amazon or Netflix to Googles self drive cars, to fraud detection.
 
-
+### In this Project i will use the Python script to analyse various data to find out more about the infamous Iris Data Set and use charts and tables to show the results of my findings. I will also use various libraries and websites to to aid me in this project and further my knowledge and understanding of this particular data set.
 
 
 
