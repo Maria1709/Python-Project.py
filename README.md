@@ -45,7 +45,13 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### In this Project i will use the Python script to analyse various data to find out more about the infamous Iris Data Set and use charts and tables to show the results of my findings. I will also use various libraries and websites to to aid me in this project and further my knowledge and understanding of this particular data set.
 
 ## First we will look at what is the minimum and maximum of each of the four columns of the iris dat set.
-![Output1](images/snip1.PNG)
+![PIC1](images/snip1.PNG)
+![PIC2](images/snip2.PNG)
+![PIC4](images/snip4.PNG)
+![PIC7](images/snip7.PNG)
+![PIC1](images/snip8.PNG)
+![PIC1](images/Capture.PNG)
+
 
 
 
