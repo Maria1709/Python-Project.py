@@ -7,7 +7,7 @@
 ### The most famous set of data for data mining and machine learning is the infamous Iris data set. 
 
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
-![Picture of Ronald Fisher] (https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:R._A._Fischer.jpg)
+![Picture of Ronald Fisher] (https://en.wikipedia.org/wiki/Iris_flower_data_set/media/File:R._A._Fischer.jpg)
 
 ![Picture of Ronald J Fisher] (..//master/myfolder/image.png)
 
