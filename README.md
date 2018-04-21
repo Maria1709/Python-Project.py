@@ -44,24 +44,34 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ## First we will look at what is the minimum and maximum of each of the four columns of the iris dat set.
 
+					![PIC2](images/snip2.PNG)
+					
+					
+	
+	
+					
+					
+
 					![PIC1](images/snip1.PNG)
+
+
+
+
+					![PIC4](images/snip4.PNG)
 					
 					
-	
-	
 					
-					
-![PIC2](images/snip2.PNG)
+
+
+					![PIC7](images/snip7.PNG)
 
 
 
-![PIC4](images/snip4.PNG)
 
 
-![PIC7](images/snip7.PNG)
+					![PIC1](images/snip8.PNG)
 
 
-![PIC1](images/snip8.PNG)
 
 
 
