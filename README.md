@@ -63,7 +63,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 					
 ### We can see from the array of data above that the average of the first column is 5.84
 					
-![PIC6](images/snip6.png)
+![PIC6](images/snip6.PNG)
 
 ![PIC7](images/snip7.PNG)
 
