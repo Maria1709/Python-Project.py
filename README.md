@@ -56,12 +56,12 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 					
 	
 	
-					
-### We can see from the array of data above that the average of the first column is 5.29					
+										
 
 ![PIC1](images/snip1.PNG)
 					
 					
+### We can see from the array of data above that the average of the first column is 5.84
 					
 
 
