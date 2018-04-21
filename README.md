@@ -11,7 +11,7 @@
 
 ### But the original data as taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation if iris flowers. Two of the the three species were collected in the Gaspe Peninsula and were picked on the same day from the same field and measured at the same time by the same time with the same aparatus.
 
-![picture of Iris Setosa](https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg)
+![picture of Iris Setosa](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue_Flag_%28Iris_versicolor%29_-_United_States_National_Arboretum_-_%281%29.jpg)
 
 ### Ronald Fisher used the data as an example for multivariante discriminant analysis.
 The Iris Data Set describes biological characteristics of various types of flowers, specifically length and width of both petals and sepals which are part of the flowers reproductive system.
