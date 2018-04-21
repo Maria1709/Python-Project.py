@@ -29,7 +29,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="200" Height="200">
 
 # Picture of Iris Virginica
-<img src="https://en.wikipedia.org/wiki/Iris_virginica#/media/File:Iris_virginica.jpg" width="200" height"200">
+<img src="https://en.wikipedia.org/wiki/Iris_virginica#/media/File:Iris_virginica.jpg" width="200" height="200">
 
 ## Class:
 1.	Iris Versicolor
