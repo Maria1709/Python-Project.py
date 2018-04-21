@@ -48,7 +48,10 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ![PIC4](images/snip4.PNG)
 
 
-### We can see from the above data results taken of the first column of the Iris Data set that the minimum is 4.29 and the maximum is 7.9. to get a better more accurate picture of this data set we will calucalte the average of the Iris Data set.
+### We can see from the above data results taken of the first column of the Iris Data set that the minimum is 4.29 and the maximum is 7.9. 
+### Result output for column 2: Minimum was 2.0 and the maximum was 4.4.
+### 
+to get a better more accurate picture of this data set we will calucalte the average of the Iris Data set.
 
 
 ![PIC2](images/snip2.PNG)
