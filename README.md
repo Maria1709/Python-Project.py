@@ -22,12 +22,14 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 3.	Petal Length in cm
 4.	Petal Width in cm
 
-![picture of Iris Setosa]
+#Picture of Iris Setosa
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue_Flag_%28Iris_versicolor%29_-_United_States_National_Arboretum_-_%281%29.jpg" width="200" Height="200">
 
 
 ## Class:
 1.	Iris Setosa
+
+
 2.	Iris Versicolour
 3.	Iris Virginica
  .
