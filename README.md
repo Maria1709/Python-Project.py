@@ -22,15 +22,17 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 3.	Petal Length in cm
 4.	Petal Width in cm
 
-#Picture of Iris Setosa
+# Picture of Iris Versicolor
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue_Flag_%28Iris_versicolor%29_-_United_States_National_Arboretum_-_%281%29.jpg" width="200" Height="200">
+# Picture of Setosa
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="200" Height="200">
 
 
 ## Class:
-1.	Iris Setosa
+1.	Iris Versicolor
 
 
-2.	Iris Versicolour
+2.	Iris Setosa
 3.	Iris Virginica
  .
 ### It is used widely as a data set for testing purposes in computer science. Also, many academic researchers have used the Iris Data Set in the area of machine learning, as the dat is about pattern recognition, researchers believe that the computer has the capacity to learn without being programmed to perform specific tasks.
