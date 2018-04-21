@@ -5,7 +5,7 @@
 ### Evolution of Machine Learning
 
 ### The most famous set of data for data mining and machine learning is the infamous Iris data set. 
-
+!(.\SNIP1.PNG)
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
 ![Picture of Ronald Fisher,](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
 
