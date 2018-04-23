@@ -23,7 +23,6 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ![PIC26](images/snip26.PNG)
 
-
 # Picture of Iris Versicolor
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue_Flag_%28Iris_versicolor%29_-_United_States_National_Arboretum_-_%281%29.jpg" width="200" Height="200">
 
@@ -74,6 +73,13 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ![PIC6](images/snip6.PNG)
 
 ![PIC7](images/snip7.PNG)
+
+
+![PIC27](images/snip27.PNG
+
+
+
+
 
 
 
