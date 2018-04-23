@@ -92,7 +92,18 @@ To get this dat to run i used varous libraries such as sklearn, pandas and matpl
 
 The above scatterplot plots the Iris data in both sepal length and sepal width.
 
+Below you will see a python script that finds out what kind of Iris measures 3cm x 5cm sepal and 4cm x 2cm petal? 
 
+from sklearn import neighbors, datasets
+iris = datasets.load_iris()
+x,y = iris.data, iris.target
+knn = neighbors.KNeighborsClassifier(
+    n_neighbors=1)
+knn.fit(x,y)
+    # what kind of iris has 3cm x 5cm sepal and 4cm x 2cm petal?
+print(iris.target_names[knn.predict([[3,5,4,2]])])
+
+ ###Result shown below as the Virginica whci measures 3cm x 5cm sepal and 4cm x 2cm petal.
 ![PIC25](images/snip25.PNG)
 
 
