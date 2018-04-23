@@ -84,6 +84,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 ![PIC28](images/snip28.PNG)
+### Above are the names of the Iris flowers
 
 
 
