@@ -80,7 +80,10 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 
+![PIC10](images/snip10.PNG)
 
+
+![PIC13](images/snip13.PNG)
 
 
 
