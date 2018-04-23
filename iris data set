@@ -1,6 +1,12 @@
 # Project 25/03/2018
 # Maria O Sullivan
 
+# Will load the iris data set
+from sklearn.datasets import load_iris
+iris = load_iris()
+type(iris)
+print (iris.data)
+
 import pandas as pd
 # my data- use panda to read cv file iris
 mydataset = pd.read_csv('iris.csv')
