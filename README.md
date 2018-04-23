@@ -76,7 +76,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 ![PIC27](images/snip27.PNG)
-
+### In the above data we have printed out the integers that represent the species of each observation
 
 
 
