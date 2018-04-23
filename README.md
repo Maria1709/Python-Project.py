@@ -94,7 +94,7 @@ The above scatterplot plots the Iris data in both sepal length and sepal width.
 
 
 
-![PIC] (images/snip25.PNG)
+![PIC25] (images/snip25.PNG)
 
 
 
