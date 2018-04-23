@@ -78,7 +78,12 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ![PIC1](images/snip8.PNG)
 
-
+###Instead of runing code to analyse each column of the Iris dats separately ive used a Python code to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
+This is a sample of the data used to achieve this result.
+dataset.head()
+dataset.tail()
+dataset.descibe()
+To get this dat to run i used varous libraries such as sklearn, pandas and matplotlib.pyplot. 
 
 ![PIC10](images/snip10.PNG)
 
