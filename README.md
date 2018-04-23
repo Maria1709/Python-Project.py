@@ -83,7 +83,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 
-1[PIC28](images/snip28.PNG)
+![PIC28](images/snip28.PNG)
 
 
 
