@@ -2,15 +2,15 @@
 # Maria O Sullivan
 
 import pandas as pd
-#my data- use panda to read cv file iris
+# my data- use panda to read cv file iris
 mydataset = pd.read_csv('iris.csv')
 #integer location
 x = mydataset.iloc[:,0].values
-#find minimum in column 1
+# find minimum in column 1
 print(min(x))
-#find maximum in column 1
+# find maximum in column 1
 print(max(x))
-Result output for column 1: 4.3, 7.9
+#Result output for column 1: 4.3, 7.9
 
 
 import pandas as pd
@@ -19,7 +19,7 @@ x = mydataset.iloc[:,1].values
 print(min(x))
 print(max(x))
 
-Result output for column 2: 2.0, 4.4
+#Result output for column 2: 2.0, 4.4
 
 import pandas as pd
 mydataset = pd.read_csv('iris.csv')
@@ -27,7 +27,7 @@ x = mydataset.iloc[:,2].values
 print(min(x))
 print(max(x))
 
-Result output for column 3: 1.0, 6.9
+#Result output for column 3: 1.0, 6.9
 
 import pandas as pd
 mydataset = pd.read_csv('iris.csv')
@@ -35,7 +35,7 @@ x = mydataset.iloc[:,3].values
 print(min(x))
 print(max(x))
 
-Result output for column 4: 0.1, 2.5
+#Result output for column 4: 0.1, 2.5
 
 
 
@@ -45,7 +45,7 @@ x = mydataset.iloc[:,4].values
 print(min(x))
 print(max(x))
 
-Result output for column 5:Iris Setosa, Iris Virginica
+#Result output for column 5:Iris Setosa, Iris Virginica
 
 
 
@@ -79,7 +79,7 @@ from sklearn.metrics import confusion_matrix
 df=pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data",
 names = ["Sepal length", "Sepal Width",  "Petal length", "Petal width", "Class"])
 print (df.head(10))
-#function(describe) to calculate standard deviation and the mean of the iris data set top ten in a column in a grid
+# function(describe) to calculate standard deviation and the mean of the iris data set top ten in a column in a grid
 print(df.describe())
 
 
