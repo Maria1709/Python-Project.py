@@ -21,7 +21,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 3.	Petal Length in cm
 4.	Petal Width in cm
 
-![PIC26] (images/snip26.PNG)
+![PIC26](images/snip26.PNG)
 
 
 # Picture of Iris Versicolor
