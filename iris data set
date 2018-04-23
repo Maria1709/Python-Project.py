@@ -136,8 +136,7 @@ dataset = pandas.read_csv('iris_dataset.csv')
 
 dataset.head()
 dataset.tail()
-dataset.descibe()
-
+dataset.describe()
 
 
 from sklearn.datasets import load_iris
@@ -157,3 +156,7 @@ plt.ylabel(iris.feature_names[y_index])
 
 plt.tight_layout()
 plt.show()
+
+
+
+
