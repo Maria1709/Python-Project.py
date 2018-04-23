@@ -75,7 +75,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ![PIC7](images/snip7.PNG)
 
 
-![PIC27](images/snip27.PNG
+![PIC27](images/snip27.PNG)
 
 
 
