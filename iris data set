@@ -128,6 +128,11 @@ pl.hist (firstcol)
 pl.show()
 
 
+# prints our iris names
+from sklearn.datasets import load_iris
+iris = load_iris()
+type(iris)
+print (iris.target_names)
 
 
 
