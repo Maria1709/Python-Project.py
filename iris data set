@@ -133,7 +133,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
 dataset = pandas.read_csv('iris_dataset.csv')
-
+# Reads the data and takes the first 5 rows and last 5 rows, gets std,mean, min,max,25%,50% and 75%.
 dataset.head()
 dataset.tail()
 dataset.describe()
@@ -143,9 +143,10 @@ from sklearn.datasets import load_iris
 iris = load_iris()
 
 from matplotlib import pyplot as plt
-
+# The indices of the features that we are plotting
 x_index = 0
 y_index = 1
+# Thisformatter labels the colorbar with the appropriate target names
 formatter = plt.FuncFormatter(lambda i, *args: iris.target_names[int(i)])
 
 plt.figure(figsize=(5,4))
