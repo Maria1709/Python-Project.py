@@ -88,7 +88,8 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 
-
+![PIC29](images/snip29.PNG)
+### The quantity of data in this dataset
 
 
 ![PIC1](images/snip8.PNG)
