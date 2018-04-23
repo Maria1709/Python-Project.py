@@ -90,7 +90,7 @@ To get this dat to run i used varous libraries such as sklearn, pandas and matpl
 
 ![PIC13](images/snip13.PNG)
 
-The above scatterplot plots the Iris data
+The above scatterplot plots the Iris data in both sepal length and sepal width.
 
 
 
