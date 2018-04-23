@@ -7,6 +7,13 @@ iris = load_iris()
 type(iris)
 print (iris.data)
 
+# Prints out Iris names
+from sklearn.datasets import load_iris
+iris = load_iris()
+type(iris)
+print (iris.feature_names)
+
+
 import pandas as pd
 # my data- use panda to read cv file iris
 mydataset = pd.read_csv('iris.csv')
