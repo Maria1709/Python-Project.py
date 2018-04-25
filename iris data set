@@ -157,9 +157,11 @@ print (iris.target_names)
 print (iris.data.shape)
 print (iris.target.shape)
 
+# number of samples and the number of features in the dataset
 n_samples, n_features = iris.data.shape
 print (n_samples, n_features)
-print (iris.data[0])#prints out both names and number of columns and number of rows
+print (iris.data[0])
+# prints out both names and number of columns and number of rows
 
 
 
