@@ -146,6 +146,27 @@ y = iris.target
 
 
 
+from sklearn .datasets import load_iris
+iris = load_iris()
+iris.keys()
+# Describe the dat set and name the iris flowers.
+['target_names','data','target','DESCR', 'feature_names']
+print (iris.target_names)
+
+# Print how many rows and how many columns.
+print (iris.data.shape)
+print (iris.target.shape)
+
+n_samples, n_features = iris.data.shape
+print (n_samples, n_features)
+print (iris.data[0])#prints out both names and number of columns and number of rows
+
+
+
+
+
+
+
 
 import pandas
 from pandas.tools.plotting import scatter_matrix
