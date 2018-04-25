@@ -96,7 +96,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### The name of the flowers and the number of rows and columns together in one script.
 
 ![PIC31](images/snip31.PNG)
-### The values ragning from 0 to 2 form the three classes
+### The values ranging from 0 to 2 from the three classes
 
 ![PIC1](images/snip8.PNG)
 
