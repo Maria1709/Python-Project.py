@@ -8,7 +8,7 @@
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
 ![Picture of Ronald Fisher,](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
 
-### But the original data as taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation if iris flowers. Two of the the three species were collected in the Gaspe Peninsula and were picked on the same day from the same field and measured at the same time by the same time with the same aparatus.
+### But the original data was taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation of iris flowers. Two of the the three species were collected in the Gaspe Peninsula and were picked on the same day from the same field and measured at the same time by the same time with the same aparatus.
  
 
 ### Ronald Fisher used the data as an example for multivariante discriminant analysis.
@@ -94,7 +94,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ![PIC1](images/snip8.PNG)
 
-###Instead of runing code to analyse each column of the Iris dats separately ive used a Python code to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
+###Instead of runing code to analyse each column of the Iris dats separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
 This is a sample of the data used to achieve this result.
 dataset.head()
 dataset.tail()
@@ -131,12 +131,6 @@ print(iris.target_names[knn.predict([[3,5,4,2]])])
 
 
 
-
-import pandas as pd
-mydataset = pd.read_csv('iris.csv')
-x = mydataset.iloc[:,1].values
-print(min(x))
-print(max(x))
 
 
 
@@ -186,6 +180,7 @@ print(max(x))
 
 
 References
+
 https://www.techopedia.com/definition/32880/iris-flower-data-set
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
 https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
