@@ -92,7 +92,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### The quantity of data in this dataset
 
 
-![PIC30](images/snip30.PNG]
+![PIC30](images/snip30.PNG)
 ### The name of the flowers and the number of rows and columns together in one script.
 
 ![PIC1](images/snip8.PNG)
