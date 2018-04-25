@@ -92,6 +92,9 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### The quantity of data in this dataset
 
 
+![PIC30](image/snip30.PNG]
+### The name of the flowers and the number of rows and columns together in one script.
+
 ![PIC1](images/snip8.PNG)
 
 ###Instead of runing code to analyse each column of the Iris dats separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
