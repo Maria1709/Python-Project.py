@@ -1,9 +1,10 @@
 # Python-Project.py
 
-## The Iris Data Set
+## Statistical Analysis of the Iris Dataset
 
 ### Evolution of Machine Learning
 
+## Introduction
 ### The most famous set of data for data mining and machine learning is the infamous Iris data set. 
 ### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
 ![Picture of Ronald Fisher,](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
@@ -47,7 +48,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### Python is an interpreted, object orientated programming language that is very popular due to its clear syntax and readibility. Python was created by Guido van Rossum from the Netherlands, whose favourite comedy act ws monty pythons flying circus. I will be using Virtual studio which is a code editor and also i will be importing many different libraried to help me in this assignment.
 ### I have also used ipython which is an interactive shell built with python.
 
-### First we will look at what is the minimum and maximum of each of the four columns of the iris data set.
+### I want to see how the three classes of the Iris dataset differ and in what way.First we will look at what is the minimum and maximum of each of the four columns of the iris data set.
 
 
 ![PIC4](images/snip4.PNG)
