@@ -104,10 +104,10 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ![PIC1](images/snip8.PNG)
 
-### The above histogram shows data from the first column of the Iris datset. On the X axis which is the width we have an average of 5.0
+ The above histogram shows data from the first column of the Iris datset. On the X axis which is the width we have an average of 5.08605 and on the Y axis we have an average of 24.6805.
 
 
-### Instead of writing individual scripts to analyse each column of the Iris data set separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
+ Instead of writing individual scripts to analyse each column of the Iris data set separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
 This is a sample of the data used to achieve this result.
 dataset.head()
 dataset.tail()
