@@ -116,7 +116,18 @@ To get this data to run i used varous libraries such as sklearn, pandas and matp
 
 ![PIC13](images/snip13.PNG)
 
-The above scatterplot plots the Iris data in both sepal length and sepal width.
+The above scatterplot plots the Iris data in both sepal length and sepal width. 
+First we will look the length,1: Iris Viriginica has the longest sepals
+				      2: Iris Versicolor has the medium lenght sepals
+				      3: Iris Setosa has the shortest length sepals 
+compared to all the other classes.
+
+
+Secondly we will look at the width, 1: Iris Setosa has the widest sepals
+				    2: Iris Virginica has the mdium width sepals
+				    3: Iris Versicolor has the narrowest sepals
+compared to all the other classes.
+				    
 
 Below you will see a python script that finds out what kind of Iris measures 3cm x 5cm sepal and 4cm x 2cm petal? 
 
