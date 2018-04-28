@@ -5,11 +5,11 @@
 ### Evolution of Machine Learning
 
 ## Introduction
-### The most famous set of data for data mining and machine learning is the infamous Iris data set. 
-### The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
+ The most famous set of data for data mining and machine learning is the infamous Iris data set. 
+ The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
 ![Picture of Ronald Fisher,](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
 
-### But the original data was taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation of iris flowers. Two of the the three species were collected in the Gaspe Peninsula and were picked on the same day from the same field and measured at the same time by the same time with the same aparatus.
+ But the original data was taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation of iris flowers. Two of the the three species were collected in the Gaspe Peninsula and were picked on the same day from the same field and measured at the same time by the same time with the same aparatus.
  
 
 ### Ronald Fisher used the data as an example for multivariante discriminant analysis.
@@ -38,28 +38,28 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 2.	Iris Setosa
 3.	Iris Virginica
  .
-### It is used widely as a data set for testing purposes in computer science. Also, many academic researchers have used the Iris Data Set in the area of machine learning, as the dat is about pattern recognition, researchers believe that the computer has the capacity to learn without being programmed to perform specific tasks.
+It is used widely as a data set for testing purposes in computer science. Also, many academic researchers have used the Iris Data Set in the area of machine learning, as the dat is about pattern recognition, researchers believe that the computer has the capacity to learn without being programmed to perform specific tasks.
 
-### There is a lot of research in the area of Artificial Intellignece and researchers are interested to see can computers learn form data. Machines can use previous computations to automate to repeat and automate future deciosn making.This has been aroung for quiet a while but now with the ever growing scale of data and its now affordable data storage, and the need for automatuion and efficiency and effectiveness in the workplace and beyond, we need to find a way to analyze large ammounts of more complex data and deliver faster results.
-### Machine learning can range at present form online reccommendations on Amazon or Netflix to Googles self drive cars, to fraud detection.
+There is a lot of research in the area of Artificial Intellignece and researchers are interested to see can computers learn form data. Machines can use previous computations to automate to repeat and automate future deciosn making.This has been aroung for quiet a while but now with the ever growing scale of data and its now affordable data storage, and the need for automatuion and efficiency and effectiveness in the workplace and beyond, we need to find a way to analyze large ammounts of more complex data and deliver faster results.
+Machine learning can range at present form online reccommendations on Amazon or Netflix to Googles self drive cars, to fraud detection.
 
-### In this Project i will use the Python script to analyse various data to find out more about the infamous Iris Data Set and use charts and tables to show the results of my findings. I will also use various libraries and websites to to aid me in this project and further my knowledge and understanding of this particular data set.
+ In this Project i will use the Python script to analyse various data to find out more about the infamous Iris Data Set and use charts and tables to show the results of my findings. I will also use various libraries and websites to to aid me in this project and further my knowledge and understanding of this particular data set.
 
-### Python is an interpreted, object orientated programming language that is very popular due to its clear syntax and readibility. Python was created by Guido van Rossum from the Netherlands, whose favourite comedy act ws monty pythons flying circus. I will be using Virtual studio which is a code editor and also i will be importing many different libraried to help me in this assignment.
-### I have also used ipython which is an interactive shell built with python. I have stored all the python scripts required to run this analysis in the folder the iris datset with comments to explain why i used that particular data.
+ Python is an interpreted, object orientated programming language that is very popular due to its clear syntax and readibility. Python was created by Guido van Rossum from the Netherlands, whose favourite comedy act ws monty pythons flying circus. I will be using Virtual studio which is a code editor and also i will be importing many different libraried to help me in this assignment.
+ I have also used ipython which is an interactive shell built with python. I have stored all the python scripts required to run this analysis in the folder the iris datset with comments to explain why i used that particular data.
 
-### I want to see how the three classes of the Iris dataset differ and in what way.First we will look at what is the minimum and maximum of each of the four columns of the iris data set.
+ I want to see how the three classes of the Iris dataset differ and in what way.First we will look at what is the minimum and maximum of each of the four columns of the iris data set.
 
 
 ![PIC4](images/snip4.PNG)
 
 
-### We can see from the above data results taken of the first column of the Iris Data set that the minimum is 4.29 and the maximum is 7.9. 
-### Result output for column 2: Minimum was 2.0 and the maximum was 4.4.
-### Result output for column 3: Minimum was 1.0 and Maximum was 6.9.
-### Result output for column 4: Minimum was 0.1 and Maximum was 2.5.
+ We can see from the above data results taken of the first column of the Iris Data set that the minimum is 4.29 and the maximum is 7.9. 
+Result output for column 2: Minimum was 2.0 and the maximum was 4.4.
+Result output for column 3: Minimum was 1.0 and Maximum was 6.9.
+Result output for column 4: Minimum was 0.1 and Maximum was 2.5.
 
-### To get a better more accurate picture of this data set we will calculate the average of the Iris Data set.
+ To get a better more accurate picture of this data set we will calculate the average of the Iris Data set.
 
 
 ![PIC2](images/snip2.PNG)
@@ -72,7 +72,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ![PIC1](images/snip1.PNG)
 					
 					
-### We can see from the array of data above that the average of the first column is 5.84
+ We can see from the array of data above that the average of the first column is 5.84
 					
 ![PIC6](images/snip6.PNG)
 
@@ -80,7 +80,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 ![PIC27](images/snip27.PNG)
-### In the above data we have printed out the integers that represent the species of each observation
+ In the above data we have printed out the integers that represent the species of each observation
 
 
 
@@ -88,19 +88,19 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 
 ![PIC28](images/snip28.PNG)
-### Above are the names of the Iris flowers
+ Above are the names of the Iris flowers
 
 
 
 ![PIC29](images/snip29.PNG)
-### The quantity of data in this dataset
+ The quantity of data in this dataset
 
 
 ![PIC30](images/snip30.PNG)
-### The name of the flowers and the number of rows and columns together in one script.
+ The name of the flowers and the number of rows and columns together in one script.
 
 ![PIC31](images/snip31.PNG)
-### The values ranging from 0 to 2 from the three classes
+ The values ranging from 0 to 2 from the three classes
 
 ![PIC1](images/snip8.PNG)
 
