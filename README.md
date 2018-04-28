@@ -72,7 +72,7 @@ Result output for column 4: Minimum was 0.1 and Maximum was 2.5.
 ![PIC1](images/snip1.PNG)
 					
 					
- We can see from the array of data above that the average of the first column is 5.84
+ We can see from this array of data that the average of the first column is 5.84
 					
 ![PIC6](images/snip6.PNG)
 
@@ -80,7 +80,7 @@ Result output for column 4: Minimum was 0.1 and Maximum was 2.5.
 
 
 ![PIC27](images/snip27.PNG)
- In the above data we have printed out the integers that represent the species of each observation
+In this data we have printed out the integers that represent the species of each observation
 
 
 
@@ -88,7 +88,7 @@ Result output for column 4: Minimum was 0.1 and Maximum was 2.5.
 
 
 ![PIC28](images/snip28.PNG)
- Above are the names of the Iris flowers
+ These are the names of the Iris flowers
 
 
 
