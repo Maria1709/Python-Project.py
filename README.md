@@ -45,6 +45,7 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 ### In this Project i will use the Python script to analyse various data to find out more about the infamous Iris Data Set and use charts and tables to show the results of my findings. I will also use various libraries and websites to to aid me in this project and further my knowledge and understanding of this particular data set.
 
 ### Python is an interpreted, object orientated programming language that is very popular due to its clear syntax and readibility. Python was created by Guido van Rossum from the Netherlands, whose favourite comedy act ws monty pythons flying circus. I will be using Virtual studio which is a code editor and also i will be importing many different libraried to help me in this assignment.
+### I have also used ipython which is an interactive shell built with python.
 
 ### First we will look at what is the minimum and maximum of each of the four columns of the iris data set.
 
