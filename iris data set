@@ -131,7 +131,9 @@ print("Average of the first column is: ", meanfirstcol)
 
 
 import matplotlib.pyplot as pl
+# histogram of first column
 pl.hist (firstcol)
+# show hostogram
 pl.show()
 
 
