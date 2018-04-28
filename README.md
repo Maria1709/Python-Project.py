@@ -100,12 +100,12 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 ![PIC1](images/snip8.PNG)
 
-###Instead of runing code to analyse each column of the Iris dats separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
+### Instead of writing individual scripts to analyse each column of the Iris data set separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
 This is a sample of the data used to achieve this result.
 dataset.head()
 dataset.tail()
 dataset.descibe()
-To get this dat to run i used varous libraries such as sklearn, pandas and matplotlib.pyplot. 
+To get this data to run i used varous libraries such as sklearn, pandas and matplotlib.pyplot. 
 
 ![PIC10](images/snip10.PNG)
 
@@ -125,7 +125,7 @@ knn.fit(x,y)
     # what kind of iris has 3cm x 5cm sepal and 4cm x 2cm petal?
 print(iris.target_names[knn.predict([[3,5,4,2]])])
 
- ###Result seen here is that the Virginica measures 3cm x 5cm sepal and 4cm x 2cm petal.
+ ### Result seen here is that the Virginica measures 3cm x 5cm sepal and 4cm x 2cm petal.
 ![PIC25](images/snip25.PNG)
 
 
