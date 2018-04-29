@@ -120,8 +120,9 @@ The above histogram shows data frm the second column of the Iris datset.
 The above histogram shows data form the third column of the Iris datset.
 
 ![fourthcolumn.PNG](images/fourthcolumn.PNG)
-
+![average_of_the_fourth_column](images/average_of_fourth_column.PNG)
 The above histogram shows data from the fourth column of the Iris dataset.
+
 
  Instead of writing individual scripts to analyse each column of the Iris data set separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
 This is a sample of the data used to achieve this result.
