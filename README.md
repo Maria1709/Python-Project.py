@@ -110,6 +110,8 @@ In this data we have printed out the integers that represent the species of each
 
 ![thirdcolumn.PNG](images/thirdcolumn.PNG)
 
+![fourthcolumn.PNG](images/fourthcolumn.PNG)
+
  Instead of writing individual scripts to analyse each column of the Iris data set separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
 This is a sample of the data used to achieve this result.
 dataset.head()
