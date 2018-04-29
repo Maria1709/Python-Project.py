@@ -157,7 +157,7 @@ knn.fit(x,y)
     # what kind of iris has 3cm x 5cm sepal and 4cm x 2cm petal?
 print(iris.target_names[knn.predict([[3,5,4,2]])])
 
- ### Result seen here is that the Virginica measures 3cm x 5cm sepal and 4cm x 2cm petal.
+Result seen here is that the Virginica measures 3cm x 5cm sepal and 4cm x 2cm petal.
 ![PIC25](images/snip25.PNG)
 
 
