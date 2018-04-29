@@ -106,7 +106,7 @@ In this data we have printed out the integers that represent the species of each
 
  The above histogram shows data from the first column of the Iris datset. On the X axis which is the width we have an average of 5.08605 and on the Y axis we have an average of 24.6805.
  
- ![second column.PNG](images/secondcolumn.PNG)
+ ![secondcolumn.PNG](images/secondcolumn.PNG)
 
 
  Instead of writing individual scripts to analyse each column of the Iris data set separately i have used a Python script to run various data in one go to get a greater understanding of this particular data set below you can see we have calculated the standard deviation, the mean, minimum and maximum and also the top 25%,50% and 75% of the data, and alos the top 5 lines and the bottom five lines of the Iris data set.
