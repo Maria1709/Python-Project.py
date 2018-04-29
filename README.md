@@ -7,6 +7,8 @@
 ## Introduction
  The most famous set of data for data mining and machine learning is the infamous Iris data set. 
  The Iris Data Set is a specific set of information compiled by Ronald Fisher. Ronald Fisher as a biologist in the 1930’s.
+ 
+ 
 ![Picture of Ronald Fisher,](http://www.swlearning.com/quant/kohler/stat/biographical_sketches/Fisher_3.jpeg)
 
  But the original data was taken by a man named Edgar Anderson in 1935 who was an American botanist who studied the flowers in Quebec in Canada, he called the data “The irises of the Gaspe Peninsula, he did this to quantify the variation of iris flowers. Two of the the three species were collected in the Gaspe Peninsula and were picked on the same day from the same field and measured at the same time by the same time with the same aparatus.
@@ -217,6 +219,7 @@ print(iris.target_names[knn.predict([[3,5,4,2]])])
 
 References
 
+Ian Mcloughlin (2018) Programming and Scripting, GMIT: 
 https://www.techopedia.com/definition/32880/iris-flower-data-set
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names
 https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
@@ -226,6 +229,16 @@ http://www.codeastar.com/beginner-data-science-tutorial/
 https://www.kaggle.com/uciml/irisIris_flower_data_set
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 https://www.sas.com/en_ie/insights/analytics/machine-learning.html
+https://www.youtube.com/watch?v=rNHKCKXZde8
+https://www.youtube.com/watch?v=FLuqwQgSBDw
+https://www.youtube.com/watch?v=8yXpWGRBXjE
+https://stackoverflow.com/questions/11111625/python-read-second-column-from-file
+http://scikit-learn.org/stable/
+https://www.geeksforgeeks.org/
+http://www.numpy.org/
+https://matplotlib.org/
+
+
 
 
 
