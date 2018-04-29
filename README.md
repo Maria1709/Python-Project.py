@@ -114,6 +114,7 @@ The above histogram shows data frm the second column of the Iris datset.
 ![average_second_column](images/average_second_column.PNG)
 
 ![thirdcolumn.PNG](images/thirdcolumn.PNG)
+![average_of_third_column](images/average_of_third_column.PNG)
 
 
 The above histogram shows data form the third column of the Iris datset.
