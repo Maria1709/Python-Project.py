@@ -146,7 +146,7 @@ Secondly we will look at the width, 1: Iris Setosa has the widest sepals
 compared to all the other classes.
 				    
 
-Below you will see a python script that finds out what kind of Iris measures 3cm x 5cm sepal and 4cm x 2cm petal? 
+Below you will see a python script that finds out what kind of Iris measures 3cm x 5cm sepal and 4cm x 2cm petal? From the data we have sen here we can see that the Iris Virginia has the longest sepal length, with medium sepal width. the Iris setosa has the shortest lemgth sepals and widest sepal width and overall the iris virginica has both medium length and width sepals. With this data even without a visual image of the Iris we can invsion the overall size of the iris flowers in comparison to each of the classes.
 
 from sklearn import neighbors, datasets
 iris = datasets.load_iris()
