@@ -106,7 +106,7 @@ In this data we have printed out the integers that represent the species of each
 
  The above histogram shows data from the first column of the Iris datset. On the X axis which is the width we have an average of 5.08605 and on the Y axis we have an average of 24.6805.
  
- ![secondcolumn.PNG](images/secondcolumn.PNG)
+![secondcolumn.PNG](images/secondcolumn.PNG)
 
 ![thirdcolumn.PNG](images/thirdcolumn.PNG)
 
