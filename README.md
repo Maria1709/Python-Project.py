@@ -111,6 +111,7 @@ In this data we have printed out the integers that represent the species of each
 ![secondcolumn.PNG](images/secondcolumn.PNG)
 
 The above histogram shows data frm the second column of the Iris datset.
+![average_second_column](images/average_second_column.PNG)
 
 ![thirdcolumn.PNG](images/thirdcolumn.PNG)
 
