@@ -268,9 +268,112 @@ import matplotlib.pyplot as pl
 
 pl.hist (firstcol)
 
-# show hostogram
+# show histogram
 
 pl.show()
+
+
+
+
+# Will load the iris data set
+
+import matplotlib.pyplot as pl
+import numpy
+
+# histogram of second column
+# read data file into array.
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+
+
+secondcol = data[:,1]
+
+meansecondcol = numpy.mean(data[:,1])
+
+
+
+print("Average of the second column is: ", meansecondcol)
+
+pl.hist (secondcol)
+
+# show histogram
+
+pl.show()
+import matplotlib.pyplot as pl
+
+# histogram of second column
+
+
+
+
+
+
+# Will load the iris data set
+
+import matplotlib.pyplot as pl
+import numpy
+
+# histogram of third column
+# read data file into array.
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+
+
+thirdcol = data[:,2]
+
+meanthirdcol = numpy.mean(data[:,2])
+
+
+
+print("Average of the third column is: ", meanthirdcol)
+
+pl.hist (thirdcol)
+
+# show histogram
+
+pl.show()
+import matplotlib.pyplot as pl
+
+# histogram of third column
+
+
+
+
+
+
+# Will load the iris data set
+
+import matplotlib.pyplot as pl
+import numpy
+
+# histogram of fourth column
+# read data file into array.
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+
+
+fourthcol = data[:,3]
+
+meanfourthcol = numpy.mean(data[:,3])
+
+
+
+print("Average of the fourth column is: ", meanfourthcol)
+
+pl.hist (fourthcol)
+
+# show histogram
+
+pl.show()
+import matplotlib.pyplot as pl
+
+# histogram of fourth column
+
+
+
 
 
 
